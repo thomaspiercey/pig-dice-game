@@ -1,7 +1,7 @@
 # Pig Dice Game
 ES5 JavaScript Dice Roll Game.
 
-Game developer as part of a course "The Complete JavaScript Course 2020: Build Real Projects!" - https://www.udemy.com/share/101WfeBEsbcVxbR3o=/
+Game developed as part of a course "The Complete JavaScript Course 2020: Build Real Projects!" - https://www.udemy.com/share/101WfeBEsbcVxbR3o=/
 
 ## Game Rules
 - The game has 2 players, playing in rounds.
